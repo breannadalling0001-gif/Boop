@@ -265,8 +265,7 @@
   <header>
     <div class="nav-wrap">
       <div class="logo-area">
-        <!-- Replace LOGO_URL_HERE with a link to your logo image -->
-        <img src="LOGO_URL_HERE" alt="StylesByVanessaV Logo" class="logo-img" />
+        <img src="16EFB7BE-2E10-49AF-B0CB-90044E870E44.png" alt="StylesByVanessaV Logo" class="logo-img" />
         <div class="logo-text">STYLESBYVANESSAV</div>
       </div>
       <nav>
@@ -296,9 +295,7 @@
         </a>
       </div>
       <div class="hero-logo">
-        <!-- You can also place your logo image here if you like -->
-        <img src="LOGO_URL_HERE"
-             alt="StylesByVanessaV Logo Large" />
+        <img src="16EFB7BE-2E10-49AF-B0CB-90044E870E44.png" alt="StylesByVanessaV Logo Large" />
       </div>
     </section>
 
@@ -469,8 +466,6 @@
           </a>
         </p>
         <p><strong>Email:</strong> yourauntemail@example.com</p>
-        <!-- Add phone only if she wants it public -->
-        <!-- <p><strong>Phone:</strong> (555) 555-5555</p> -->
       </div>
     </section>
   </main>
